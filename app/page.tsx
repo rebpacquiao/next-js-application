@@ -5,7 +5,7 @@ import SearchComponent from "./components/SearchComponent";
 export default function Home() {
   return (
     <main>
-      <Link href="/about">About</Link>
+      <Link href="/users">Users</Link>
       <SearchComponent />
     </main>
   );
